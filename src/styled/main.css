@@ -2,11 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
+:root {
     font-family: "Montserrat" !important;
 }
 
 body{
-    @apply relative
+    @apply relative antialiased
 }
 
